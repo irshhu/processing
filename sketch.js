@@ -3,7 +3,7 @@ let tiles = 100; // Grid resolution
 let tileSize;
 
 function preload() {
-    img = loadImage("your-image.jpg"); // Replace with your image
+    img = loadImage("https://unsplash.com/photos/woman-staring-directly-at-camera-near-pink-wall-bqe0J0b26RQ"); // Replace with your image
 }
 
 function setup() {
